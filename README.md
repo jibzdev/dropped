@@ -9,3 +9,5 @@ play the game on `localhost:8080`
 
 <img src="https://imgur.com/Qf4NuAB.png">
 <img src="https://imgur.com/zqI3Dxm.png">
+
+there is alot of bugs to fix but the groundwork is there so any bugs just open a pull request

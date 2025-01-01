@@ -1,0 +1,19 @@
+{
+  "version": "1.2.0",
+  "description": "Dropped",
+  "main": "server.mjs",
+  "scripts": {
+      "start": "node server.mjs"
+  },
+  "keywords": [
+      "Dropped"
+  ],
+  "author": "Jibz (jibzdev)",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+      "body-parser": "^1.20.2",
+      "express": "^4.17.1",
+      "fs": "^0.0.1-security"
+  }
+}
